@@ -25,4 +25,5 @@ Enfim, resumidamente, o QA como conhecemos não vai acabar, mas é necessário c
 E você, o que acha? 
 
 PS1.: Neste texto tratei apenas de hard skills da área técnica da evolução da carreira de QA para QE. Tópicos como conhecimento de negócio, soft skills e afins são necessários para qualquer evolução dentro da carreira, seja ela para técnica ou para "gerencial", pois fazem parte de ambas.
+
 PS2.: Ainda vão existir vagas para QAs, no entanto serão cada vez mais escassas e/ou voltadas para cargos de senioridade de início de carreira.
