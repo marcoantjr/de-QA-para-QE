@@ -6,6 +6,7 @@ O QA está com os dias contados. Acredito que desde o primeiro dia que comecei a
 Portanto, neste texto, quero discutir o tema: "O QA, como conhecíamos no passado não está com os dias contados, mas precisa evoluir!"
 
 Para deixar claro o que penso sobre as siglas que vou comentar, vou fazer uma breve descrição de cada uma delas aqui:
+
 QA: O QA (Quality Analyst), ou QAA (Quality Assurance Analyst), é o responsável por garantir que os requisitos ou critérios de aceite levantados no começo do planejamento do produto estejam satisfeitos depois que o produto foi desenvolvido. Na grande maioria dos times, as atividades atribuídas aos QAs são relacionadas ao planejamento de Casos de Teste e execução manual deles. 
 
 QE: O QE (Quality Engineer), ou QAE (Quality Assurance Engineer), possui os mesmos objetivos que um QA, acrescidos de pontos importantes, como mindset de Qualidade e objetivos técnicos, envolvendo automações, camadas de integração, atividades próximas aos times de Desenvolvimento e DevOps, preocupação com requisitos não funcionais, como performance, e outros. Isto torna o QE um dos próximos passos na carreira (se formos avaliar com um viés técnico) do QA, principalmente se formos analisar carreiras como no modelo T-Shaped ou outros. Existem outras nomenclaturas que tenho visto no mercado, como Software Development Engineer in Test (SDET), Software Engineer in Test, porém neste conteúdo, não vou entrar em detalhes sobre o que "pode" ser a diferença entre elas e o QE.
